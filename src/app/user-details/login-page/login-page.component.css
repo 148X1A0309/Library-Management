@@ -1,0 +1,25 @@
+.login{
+    /* background-image:url('../../../assets/images/login.jpg');
+    background-repeat: no-repeat;
+    background-size:cover; */
+    padding-left: 35vw;
+}
+
+.regLabel{
+    margin-top: 30px;
+    margin-bottom: 2vw;
+}
+.regInput{
+   width: 23vw;
+}
+.reg{
+   margin-bottom: 10px;
+}
+.regRole{
+    width:23vw;
+    height:3vw;
+    border-radius:7px;
+}
+.signup{
+    padding-left:2vw;
+}
